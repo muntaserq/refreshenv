@@ -1,7 +1,4 @@
 # refreshenv
-A Chef ruby resource to refresh environment variables on Windows OS
-
-# refreshenv
 
 A useful resource to refresh the ENV variable in Ruby during a chef client run.
 You can use this in any recipe within a cookbook that depends on refreshenv.
