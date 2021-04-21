@@ -13,6 +13,7 @@
 #   end
 #
 resource_name :refresh_env
+provides :refresh_env
 
 actions :create
 default_action :create
